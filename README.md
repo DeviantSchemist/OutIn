@@ -10,7 +10,7 @@ I can display a list of local restaurants and recipes
 Ss that I can decide whether to eat out or make my own food.
 
 ## Usage
-This app uses local storage on your web browser to save your favorite restaurants/recipes. Materialize styling library was used for styling. No npm packages required. 
+This app uses local storage on your web browser to save your favorite restaurants/recipes. Materialize styling library was used for styling. Spoonacular API used for recipes, and Yelp API used for restaurants. No npm packages required. 
 
 ## Scnreenshots
 ![screenshot1](./Assets/screenshot1.png)
