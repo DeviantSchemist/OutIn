@@ -6,3 +6,6 @@ An application that allows users to search for restaurants or recipes near their
 AS a food connoisseur
 I can display a list of local restaurants and recipes
 SO that I can decide whether to eat out or make my own food.
+
+## Scnreenshots
+![screenshot](./assets/screenshot1.png)
