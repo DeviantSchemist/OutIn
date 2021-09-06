@@ -8,4 +8,4 @@ I can display a list of local restaurants and recipes
 SO that I can decide whether to eat out or make my own food.
 
 ## Scnreenshots
-![screenshot](./assets/screenshot1.png)
+![screenshot](./Assets/screenshot1.png)
