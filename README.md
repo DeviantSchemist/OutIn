@@ -16,3 +16,8 @@ Ss that I can decide whether to eat out or make my own food.
 
 
 ![screenshot2](./Assets/screenshot2.png)
+
+## Contributors/maintainers:
+ * Armin - https://github.com/armin-ch/
+ * Dia - https://github.com/diaseu/
+ * Michael - https://github.com/DeviantSchemist
