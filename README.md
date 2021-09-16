@@ -26,3 +26,7 @@ This app uses local storage on your web browser to save your favorite restaurant
  * Armin - https://github.com/armin-ch/
  * Dia - https://github.com/diaseu/
  * Michael - https://github.com/DeviantSchemist/
+
+## Deployment
+
+This application is deployed to Github Pages. Click [here](https://deviantschemist.github.io/Project1/) to be redirected to the deployed site.
